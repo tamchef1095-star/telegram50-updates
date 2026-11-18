@@ -2,7 +2,7 @@
 
 Bản tùy biến từ [Telegram Desktop](https://github.com/telegramdesktop/tdesktop), giới hạn phía ứng dụng tối đa 50 tài khoản, Quick Replies và Auto Order.
 
-**Bản hiện tại: 7.4.8 — TEST-API / Pre-release.** Đây là bản phát triển, chưa phải bản production hay bản phát hành chính thức của Telegram. Chưa xác minh 50 tài khoản đăng nhập thật.
+**Bản hiện tại: v7.4.8 — TEST-API.** Đây là bản phát triển, chưa phải bản production hay bản phát hành chính thức của Telegram. Chưa xác minh 50 tài khoản đăng nhập thật.
 
 ## File gốc / Bộ cài đầy đủ — 7.4.8
 
@@ -66,4 +66,4 @@ Giữ nguyên [LICENSE](LICENSE) và [LEGAL](LEGAL) upstream trong source và g�
 
 ## Feed đang dùng
 
-[current6](https://github.com/tamchef1095-star/telegram50-updates/blob/main/current6) hiện cung cấp **7004008 / 7.4.8**. Feed chỉ được đổi sau khi upload, xác minh file và kiểm tra tải xuống thành công. Nhãn Pre-release trên GitHub không tắt feed riêng của Telegram 50.
+[current6](https://github.com/tamchef1095-star/telegram50-updates/blob/main/current6) hiện cung cấp **7004008 / 7.4.8**. Feed chỉ được đổi sau khi upload, xác minh file và kiểm tra tải xuống thành công. Bản v7.4.8 được đặt làm Latest trên GitHub để hiện trong mục Releases. Đây vẫn là build TEST-API với phạm vi kiểm thử nêu trên.
